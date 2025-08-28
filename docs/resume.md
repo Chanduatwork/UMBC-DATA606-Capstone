@@ -1,9 +1,10 @@
 <img src="profile.jpeg" alt="Headshot" width="150"/>
-#Chandu Vemmasani  
-**Phone:-**+1 (443) 830-4213 
-**Email:-**[chanduvemmasani@gmail.com](mailto:chanduvemmasani@gmail.com) 
-**LinkedIn:-**[linkedin.com/in/chandu-301](https://www.linkedin.com/in/chandu-301) 
-**Github:-**[github.com/Chanduatwork](https://github.com/Chanduatwork)
+# Chandu Vemmasani  
+
+**Phone:** +1 (443) 830-4213  
+**Email:** [chanduvemmasani@gmail.com](mailto:chanduvemmasani@gmail.com)  
+**LinkedIn:** [linkedin.com/in/chandu-301](https://www.linkedin.com/in/chandu-301)  
+**GitHub:** [github.com/Chanduatwork](https://github.com/Chanduatwork)  
 
 ---
 
