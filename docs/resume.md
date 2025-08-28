@@ -1,5 +1,5 @@
 <img src="profile.jpeg" alt="Headshot" width="150"/>
-# Chandu Vemmasani  
+## Chandu Vemmasani  
 
 **Phone:** +1 (443) 830-4213  
 **Email:** [chanduvemmasani@gmail.com](mailto:chanduvemmasani@gmail.com)  
