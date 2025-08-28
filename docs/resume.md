@@ -1,4 +1,4 @@
-(docs/profile.jpeg)  
+!(docs/profile.jpeg)  
 # Chandu Vemmasani  
 +1 (443) 830-4213  
 [chanduvemmasani@gmail.com](mailto:chanduvemmasani@gmail.com)  
