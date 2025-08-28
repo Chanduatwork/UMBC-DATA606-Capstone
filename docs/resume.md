@@ -1,9 +1,6 @@
 <img src="profile.jpeg" alt="Headshot" width="150"/>
 # Chandu Vemmasani  
-+1 (443) 830-4213  
-[chanduvemmasani@gmail.com](mailto:chanduvemmasani@gmail.com)  
-[linkedin.com/in/chandu-301](https://www.linkedin.com/in/chandu-301)  
-[github.com/Chanduatwork](https://github.com/Chanduatwork)  
++1 (443) 830-4213 [chanduvemmasani@gmail.com](mailto:chanduvemmasani@gmail.com) [linkedin.com/in/chandu-301](https://www.linkedin.com/in/chandu-301) [github.com/Chanduatwork](https://github.com/Chanduatwork)
 
 ---
 
