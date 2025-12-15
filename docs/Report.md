@@ -8,7 +8,7 @@
 **Author:** Chandu Vemmasani  
 
 - **GitHub Repository:** [https://github.com/Chanduatwork/UMBC-DATA606-Capstone](https://github.com/Chanduatwork/UMBC-DATA606-Capstone)  
-- **Presentation Slides:** [finalppt.pptx]  
+- **Presentation Slides:** [https://github.com/Chanduatwork/UMBC-DATA606-Capstone/blob/main/docs/finalppt.pptx]  
 - **YouTube Video:** [https://youtu.be/YYbM8CCp6_4]  
 
 ---
