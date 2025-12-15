@@ -57,8 +57,8 @@ Human Activity Recognition (HAR) using smartphone sensor data has become essenti
 ![Boxplot of tBodyAcc-mean-X](tbmbox.png)  
 ![Histogram of tBodyAcc-mean-X](hist.png)  
 ![Heatmap](corelation.png)  
-![PCA](images/Screenshot_EDA_PCA.png)  
-![t-SNE](images/Screenshot_EDA_TSNE.png)  
+![PCA](PCA.png)  
+![t-SNE](tsne.png)  
 
 ### 3. **Preprocessing**
 - Standardized the features using `StandardScaler` to ensure all features contribute equally.
