@@ -52,9 +52,11 @@ Human Activity Recognition (HAR) using smartphone sensor data has become essenti
 - Generated boxplots, histograms, correlation heatmaps, and pairwise scatter plots.  
 - Used PCA and t-SNE for dimensionality reduction and to assess the natural separability of activity clusters.
 
- _Sample EDA Visuals_ (replace with your image paths):  
-![Activity Distribution](images/Screenshot_EDA_Distribution.png)  
-![Boxplot of tBodyAcc-mean-X](images/Screenshot_EDA_Boxplot.png)  
+ _Sample EDA Visuals_:  
+![Activity Distribution](1box.png)  
+![Boxplot of tBodyAcc-mean-X](tbmbox.png)  
+![Histogram of tBodyAcc-mean-X](hist.png)  
+![Heatmap](corelation.png)  
 ![PCA](images/Screenshot_EDA_PCA.png)  
 ![t-SNE](images/Screenshot_EDA_TSNE.png)  
 
