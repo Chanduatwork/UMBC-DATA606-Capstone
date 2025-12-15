@@ -18,9 +18,9 @@ Users can manually input sensor values using sliders for key motion-related feat
 
 Once inputs are provided, the app will display the predicted activity (e.g., WALKING, SITTING, LAYING) in real-time.
 
-**Screenshot: Manual Input Interface**
+**Manual Input Interface**
 
-![Manual Input](./Screenshot%202025-11-20%20180442.png)
+![Manual Input](./Slidder.png)
 
 ---
 
@@ -30,9 +30,9 @@ Users can upload `.csv` or `.txt` files containing multiple samples of preproces
 
 The app will return a table with predicted activities for each row.
 
-**Screenshot: CSV Upload and Batch Prediction**
+**CSV Upload and Batch Prediction**
 
-![CSV Upload](./Screenshot%202025-11-20%20180614.png)
+![CSV Upload](./csv.png)
 
 ---
 
