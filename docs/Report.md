@@ -99,7 +99,7 @@ A lightweight Streamlit web app was created to demonstrate the end-to-end classi
 - Display model metrics and confidence
 
 📷 _Screenshots of Streamlit App:_  
-![App Upload](images/Screenshot_Streamlit_Upload.png)  
+![App Upload](images/Slidder.png)  
 ![App Prediction](images/Screenshot_Streamlit_Prediction.png)  
 ![App Metrics](images/Screenshot_Streamlit_Metrics.png)
 
