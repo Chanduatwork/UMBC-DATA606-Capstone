@@ -98,10 +98,9 @@ A lightweight Streamlit web app was created to demonstrate the end-to-end classi
 - View predicted activity for each sample
 - Display model metrics and confidence
 
-📷 _Screenshots of Streamlit App:_  
-![App Upload](images/Slidder.png)  
-![App Prediction](images/Screenshot_Streamlit_Prediction.png)  
-![App Metrics](images/Screenshot_Streamlit_Metrics.png)
+ _Screenshots of Streamlit App:_  
+![App Upload](Slidder.png)  
+![App Prediction](CSV.png)  
 
 ---
 
